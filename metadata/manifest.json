@@ -1,6 +1,6 @@
 {
     "name": "Lava Lag Fix",
-    "website_url": "",
+    "website_url": "https://github.com/Ayyzax/PEAK_LavaLagFix",
     "version_number": "1.0.0",
     "description": "Simple mod to fix lag in Caldera by disabling lava bubbles.",
     "dependencies": [
