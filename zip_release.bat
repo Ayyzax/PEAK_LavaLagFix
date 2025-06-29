@@ -1,1 +1,0 @@
-tar.exe -cf LavaLagFix.zip -C "%~dp0metadata" "manifest.json" "README.md" "CHANGELOG.md" "icon.png" -C "%~dp0bin\Release\netstandard2.1" "LavaLagFix.dll"
